@@ -16,7 +16,9 @@ pip install scipy
 pip install matplotlib
 pip install pytorch
 pip install pennylane
-...
+pip install jax
+pip install optax
+pip install openfermion
 ```
 
 ## Usage
